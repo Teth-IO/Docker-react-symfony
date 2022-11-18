@@ -1,0 +1,9 @@
+React, a faire avant de la conteneuriser :
+npx create-react-app whalified
+cd whalified
+npm run build
+
+Symfony, dans le conteneur :
+symfony new new-project --full
+cd new-project
+symfony serve -d
